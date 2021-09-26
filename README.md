@@ -1,4 +1,4 @@
-# the-nine-billion-names-of-god
+# The Nine Billion Names of God
 Experiment inspired by the short story
 "[The Nine Billion Names of God](https://urbigenous.net/library/nine_billion_names_of_god.html)"
 by Arthur C. Clarke.
