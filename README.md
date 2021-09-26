@@ -28,11 +28,14 @@ Run this script and maybe the Universe will end when the last name of God is wri
 # Dependencies
 * [panphon](https://github.com/dmort27/panphon)
 
+See requirements.txt for more detailed information.
+
 # License and copyright notice
 This project is a work of art. The Arthur C. Clarke estate does not
 endorse, promote, help or has any relationship with this project.
 
-This project is a homage to Arthur C. Clarke.
+This project is a homage to Arthur C. Clarke,
+no copyright infringement is intended.
 
 **validate_ipa.py** and **ipa_all.csv** files have been
 copied from [panphon](https://github.com/dmort27/panphon)
