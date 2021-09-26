@@ -17,7 +17,7 @@ monks had their own alphabet, but I chose IPA as it represents all sounds of hum
 # Usage
 Run with no arguments and a file **god_names.txt** will appear with a God name per line.
 ```
-python3 main.py 
+python3 src/main.py 
 ```
 
 # Why I did this?
